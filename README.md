@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+Para la visualización del fronted en el siguiente enlace:
+https://frankling001.github.io/mi-sistema/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
